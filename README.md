@@ -1,5 +1,6 @@
 # Сурикат
 
+![Сурикат](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Suricata.suricatta.6861.jpg/800px-Suricata.suricatta.6861.jpg)
 **Сурика́т**, или **сурика́та** (лат. Suricata suricatta) — вид млекопитающих из
 семейства мангустовых (Herpestidae). Распространён в Южной Африке (в основном —
 в районе пустыни Калахари: на территориях юго-западной Анголы, Намибии, Ботсваны
